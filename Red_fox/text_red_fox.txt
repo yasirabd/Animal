@@ -1,0 +1,6 @@
+001,http://www.discoverwildlife.com/sites/default/files/imagecache/800px_530px/gallery/Animal%20Portraits%20commended_Jonny%20Armstrong_red%20fox_Wood-Tikchik%20State%20Park%20Alaska_800.jpg
+002,http://www.discoverwildlife.com/sites/default/files/imagecache/800px_530px/gallery/British%20Wildlife%20winner_Jamie%20Hall_red%20fox_London_800.jpg
+003,http://www.discoverwildlife.com/sites/default/files/imagecache/800px_530px/gallery/British%20Wildlife%20commended_Mark%20Smith_red%20fox_London_800.jpg
+004,http://www.discoverwildlife.com/sites/default/files/imagecache/800px_530px/gallery/British%20wildlife%20winner.jpg
+005,http://www.discoverwildlife.com/sites/default/files/imagecache/800px_530px/gallery/COMMENDED_BRITISH%20WILDLIFE_fox_Joanne%20Dorning_Mammal%20Research%20Unit_University%20of%20Bristol_800.jpg
+006,http://www.discoverwildlife.com/sites/default/files/imagecache/800px_530px/gallery/COMMENDED_ANIMAL%20BEHAVIOUR_red%20fox%20carrying%20roe%20deer%20carcass_Fridolin%20Zimmermann_KORA_Carnivore%20Ecology%20and%20Wildlife%20Management_800.jpg

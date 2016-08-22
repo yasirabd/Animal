@@ -1,0 +1,5 @@
+001,http://www.discoverwildlife.com/sites/default/files/imagecache/800px_530px/gallery/British%20Wildlife%20runner-up_Jamie%20Hall_European%20badger_London_800.jpg
+002,http://www.discoverwildlife.com/sites/default/files/imagecache/800px_530px/gallery/British%20Wildlife%20runner-up_Damian%20Kuzdak_European%20badger_London_800.jpg
+003,http://www.discoverwildlife.com/sites/default/files/imagecache/800px_530px/gallery/British%20Wildlife%20commended_Damian%20Kuzdak_European%20badger_London_800.jpg
+004,http://www.discoverwildlife.com/sites/default/files/imagecache/800px_530px/gallery/New%20Range%20commended_Sanjay%20Gubbi_Ecology%20and%20conservation%20of%20leopards%20in%20Karnataka_honey%20badgers_Cauvery%20Wildlife%20Sanctuary%20India_800.jpg
+005,http://www.discoverwildlife.com/sites/default/files/imagecache/800px_530px/gallery/COMMENDED_ANIMAL%20BEHAVIOUR_Badger%20carrying%20young_Fridolin%20Zimmermann_KORA%20_Carnivore%20Ecology%20and%20Wildlife%20Management_800.jpg

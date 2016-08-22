@@ -1,0 +1,4 @@
+001,http://www.discoverwildlife.com/sites/default/files/imagecache/800px_530px/gallery/Rare%20Species%20commended_Arnaud%20Desbiez_Pantanal%20Giant%20Armadillo%20Project_Brazilian%20Pantanal_baby%20giant%20armadillo%20and%20mother_800.jpg
+002,http://www.discoverwildlife.com/sites/default/files/imagecache/800px_530px/gallery/New%20Behaviour%20runner-up_Arnaud%20Desbiez_%20Pantanal%20Giant%20Armadillo%20Project_baby%20giant%20armadillo%20playing_Brazilian%20Pantanal_800.jpg
+003,http://www.discoverwildlife.com/sites/default/files/imagecache/800px_530px/gallery/RUNNER%20UP_NEW%20DISCOVERIES_Arnaud%20Desbiez_baby%20giant%20armadillo_Pantanal%20Giant%20Armadillo%20Project_800.jpg
+004,http://www.discoverwildlife.com/sites/default/files/imagecache/800px_530px/gallery/COMMENDED_ANIMAL%20BEHAVIOUR_giant%20armadillo_Arnaud%20Desbiez_Pantanal%20Giant%20Armadillo%20Project_800.jpg

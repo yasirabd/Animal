@@ -1,0 +1,3 @@
+001,http://www.discoverwildlife.com/sites/default/files/imagecache/800px_530px/gallery/Rare%20Species_Sebastian%20Kennerknecht_Marbled%20Cat.jpg.jpg
+002,http://www.discoverwildlife.com/sites/default/files/imagecache/800px_530px/gallery/Rare%20species%20commended_Cristian%20Saucedo_Conservacion%20Patagonica_pampas%20cat_Patagonia%20National%20Park%20Chile_800.jpg
+003,http://www.discoverwildlife.com/sites/default/files/imagecache/800px_530px/gallery/Rare%20Species_Laila%20Bahaa-el-din_Panthera%20WildCRU%20and%20University%20of%20KwaZulu-Natal_African%20golden%20cat_Ivindo%20National%20Park%20Gabon_800%20.jpg
